@@ -1,6 +1,7 @@
 .body {
     background-color: rgb(223, 222, 222);
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .header {
@@ -13,4 +14,8 @@
 
 .list {
     background-color: rgb(189, 189, 189);
+}
+
+.discription {
+    font-size: 40px;
 }
