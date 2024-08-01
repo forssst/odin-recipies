@@ -49,11 +49,12 @@ html {
 }
 
 .list {
-    background-color: rgb(189, 189, 189);
+    padding: 20px;
 }
 
 .discription {
     font-size: 40px;
+    color: #ffffff;
 }
 
 .img {
@@ -66,4 +67,8 @@ html {
     color:#ffffff;
     margin: 0;
     margin-top: 20px;
+}
+
+.box2 {
+    background-color: #069E2D;
 }
